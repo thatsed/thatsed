@@ -7,22 +7,22 @@
 ### The stack
 <table>
   <tr>
-    <td><img height="64px" src="https://github.com/thatsed/thatsed/blob/main/icon/python.svg?raw=true"></td>
-    <td><img height="64px" src="https://github.com/thatsed/thatsed/blob/main/icon/django.svg?raw=true"></td>
-    <td><img height="64px" src="https://github.com/thatsed/thatsed/blob/main/icon/pycharm.svg?raw=true"></td>
+    <td><img height="64px" src="https://github.com/thatsed/thatsed/blob/master/icon/python.svg?raw=true"></td>
+    <td><img height="64px" src="https://github.com/thatsed/thatsed/blob/master/icon/django.svg?raw=true"></td>
+    <td><img height="64px" src="https://github.com/thatsed/thatsed/blob/master/icon/pycharm.svg?raw=true"></td>
   </tr><tr>
-    <td><img height="64px" src="https://github.com/thatsed/thatsed/blob/main/icon/javascript.svg?raw=true"></td>
-    <td><img height="64px" src="https://github.com/thatsed/thatsed/blob/main/icon/vue.svg?raw=true"></td>
-    <td><img height="64px" src="https://github.com/thatsed/thatsed/blob/main/icon/bootstrap.svg?raw=true"></td>
+    <td><img height="64px" src="https://github.com/thatsed/thatsed/blob/master/icon/javascript.svg?raw=true"></td>
+    <td><img height="64px" src="https://github.com/thatsed/thatsed/blob/master/icon/vue.svg?raw=true"></td>
+    <td><img height="64px" src="https://github.com/thatsed/thatsed/blob/master/icon/bootstrap.svg?raw=true"></td>
   </tr><tr>
-    <td><img height="64px" src="https://github.com/thatsed/thatsed/blob/main/icon/postgresql.svg?raw=true"></td>
-    <td><img height="64px" src="https://github.com/thatsed/thatsed/blob/main/icon/redis.svg?raw=true"></td>
+    <td><img height="64px" src="https://github.com/thatsed/thatsed/blob/master/icon/postgresql.svg?raw=true"></td>
+    <td><img height="64px" src="https://github.com/thatsed/thatsed/blob/master/icon/redis.svg?raw=true"></td>
   </tr><tr>
-    <td><img height="64px" src="https://github.com/thatsed/thatsed/blob/main/icon/gunicorn.svg?raw=true"></td>
-    <td><img height="64px" src="https://github.com/thatsed/thatsed/blob/main/icon/nginx.svg?raw=true"></td>
+    <td><img height="64px" src="https://github.com/thatsed/thatsed/blob/master/icon/gunicorn.svg?raw=true"></td>
+    <td><img height="64px" src="https://github.com/thatsed/thatsed/blob/master/icon/nginx.svg?raw=true"></td>
   </tr><tr>
-    <td><img height="64px" src="https://github.com/thatsed/thatsed/blob/main/icon/docker-icon.svg?raw=true"></td>
-    <td><img height="64px" src="https://github.com/thatsed/thatsed/blob/main/icon/kubernetes.svg?raw=true"></td>
+    <td><img height="64px" src="https://github.com/thatsed/thatsed/blob/master/icon/docker-icon.svg?raw=true"></td>
+    <td><img height="64px" src="https://github.com/thatsed/thatsed/blob/master/icon/kubernetes.svg?raw=true"></td>
   </tr>
 </table>
 
