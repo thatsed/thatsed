@@ -17,6 +17,7 @@
   </tr><tr>
     <td align="center"><img height="64px" src="https://github.com/thatsed/thatsed/blob/master/icon/postgresql.svg?raw=true"></td>
     <td align="center"><img height="64px" src="https://github.com/thatsed/thatsed/blob/master/icon/redis.svg?raw=true"></td>
+    <td align="center"><img height="64px" src="https://github.com/thatsed/thatsed/blob/master/icon/celery.png?raw=true"></td>
   </tr><tr>
     <td align="center"><img height="64px" src="https://github.com/thatsed/thatsed/blob/master/icon/gunicorn.svg?raw=true"></td>
     <td align="center" colspan="2"><img height="64px" src="https://github.com/thatsed/thatsed/blob/master/icon/nginx.svg?raw=true"></td>
