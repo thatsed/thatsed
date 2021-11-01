@@ -5,6 +5,7 @@
 
 ### Projects
 
+* [wgmine](https://github.com/thatsed/wgmine) - Generate Vanity Public Keys for WireGuard.
 * [django-wireguard](https://github.com/thatsed/django-wireguard) - A Django app for managing WireGuard Interfaces, with Wagtail integration.
 * [SimpleVPN Server](https://github.com/thatsed/simplevpn-server) - An easy to deploy, WireGuard powered VPN server.
 * [TheDoubleR](https://github.com/thatsed/TheDoubleR) - A RickRoll facilitator. Generates links with customizable previews that redirect to _Never Gonna Give You Up_ by Rick Astley on YouTube.
